@@ -2,7 +2,8 @@
 
 Este proyecto consiste en el diseño y desarrollo de un grafo en **Neo4j**, mapeando las relaciones principales dentro de la escuela MIOTI. El objetivo principal es estructurar y analizar las conexiones entre las distintas entidades (alumnos, profesores, asignaturas, aulas, etc.) para ofrecer una visión completa del ecosistema académico.
 
----
+[grafo MIOTI.png
+](https://github.com/antoniamayaobrador/grafo-mioti/blob/main/grafo%20MIOTI.png)- Aquí se puede ver el grafo
 
 ## Diseño del Grafo
 
